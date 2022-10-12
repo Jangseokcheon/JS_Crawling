@@ -8,3 +8,6 @@ async function run()
   }
 
 run();
+
+
+자바스크립트를 이용한 크롤링 연습중
