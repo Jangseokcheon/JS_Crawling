@@ -114,4 +114,10 @@ const AuthForm = ({ type, form, xxxxonChange, xxxxonSubmit, error }) => {
 };
  
 export default AuthForm;
+
+![image](https://user-images.githubusercontent.com/86651809/204293180-3faadf27-c772-4da4-9895-1b690b20ae1c.png)
+
+
+![image](https://user-images.githubusercontent.com/86651809/204293239-74710ba7-832e-4409-8e9d-91c1232ff129.png)
+
  
